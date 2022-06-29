@@ -544,7 +544,7 @@ Ketik *nyerah* untuk menyerah dan mengakui kekalahan`
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6285822347348')
+                m.reply('https://wa.me/6282252285143')
             }
             break
             case 'chat': {
